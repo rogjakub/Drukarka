@@ -1,4 +1,4 @@
-# Drukarka
+# Pen Plotter
 Grupowy projekt wykonany w ramach przedmiotu Układy elektroniki cyfrowej 2
 
 # Autorzy
